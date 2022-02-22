@@ -1,0 +1,67 @@
+BLOCK AND INLINE
+Learning Outcomes
+You’ll learn about “Normal flow.”
+
+1. You’ll learn the difference between block and inline elements.
+
+		A block separates  loose like this and separates one 
+
+		segment or structure from one another 
+	
+		“Like this”, imilar to <p> </p>
+
+
+	However, notice this structure wrap when the window is resized when using an element such as <a> </a> the element will remain inline such as 	this dd, without breaking the structure.
+
+
+2. You’ll learn which elements default to block and which elements default to inline.
+
+
+3. You’ll learn what divs and spans are
+
+	
+
+Notes:
+
+
+
+Knowledge Check
+What is the difference between a block element and an inline element?
+
+Block elements are default display type, and appear stacked atop one another.
+Inline, does just as it sounds, allows elements to appear on the same line.
+	
+Inline 
+		
+		<p>
+			<a> link  </a>
+		</p>
+	
+	Would appear all within the same line as the paragraph vs. 
+
+Block
+
+		<p>  </p>
+		<p>  </p>
+
+
+
+What is the difference between an inline element and an inline-block element?
+
+An Inline-box element behaves like an inline element but with margin and padding.
+
+Is an h1 block or inline?
+
+Block
+
+Is button block or inline?
+
+Block
+
+Is div block or inline?
+
+Block
+
+Is span block or inline?
+
+Inline
